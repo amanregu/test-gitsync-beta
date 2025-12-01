@@ -1,0 +1,11 @@
+{
+  "schemaVersion": "2.0.0",
+  "gitAppName": "Test GitSync",
+  "gitAppId": "e2f3de9b-1845-4736-a5f7-da28e7300db9",
+  "branchName": "v2-add-table",
+  "gitVersionName": "v2-add-table",
+  "gitVersionId": "58f2fd0c-b7e5-4d8a-bb3e-6e869793fe7b",
+  "tooljetVersion": "3.20.38-ee-lts",
+  "createdAt": "2025-12-01T11:38:10.639Z",
+  "updatedAt": "2025-12-01T11:38:10.639Z"
+}

@@ -1,0 +1,29 @@
+{
+  "id": "58f2fd0c-b7e5-4d8a-bb3e-6e869793fe7b",
+  "name": "v2-add-table",
+  "definition": null,
+  "globalSettings": {
+    "appInMaintenance": false,
+    "canvasMaxWidth": 100,
+    "canvasMaxWidthType": "%",
+    "canvasMaxHeight": 2400,
+    "canvasBackgroundColor": "var(--cc-appBackground-surface)",
+    "backgroundFxQuery": "",
+    "appMode": "light"
+  },
+  "pageSettings": null,
+  "showViewerNavigation": true,
+  "homePageId": "9e9dfe77-b7f4-41a1-8cc2-8cf5314bae63",
+  "versionType": "branch",
+  "appId": "e2f3de9b-1845-4736-a5f7-da28e7300db9",
+  "currentEnvironmentId": "5e331b3f-39af-44a0-b530-2d0da7541b7c",
+  "promotedFrom": null,
+  "parentVersionId": "f3b7dd0f-16ab-47b5-8f9c-1b22c3f072bd",
+  "createdBy": "4dfe34f9-e5d6-4629-bdd3-c1fad03c05f7",
+  "status": "DRAFT",
+  "description": null,
+  "publishedAt": null,
+  "releasedAt": null,
+  "createdAt": "2025-12-01T11:36:32.482Z",
+  "updatedAt": "2025-12-01T11:36:32.468Z"
+}
